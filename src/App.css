@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.line{
+  text-decoration: line-through;
+}
+
+.button{
+  background-color: blue;
+  color:white;
+  margin-left: 10px;
+}
+
+.delete{
+  background-color: red;
+  color:white;
+}
